@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{0169A925-FD97-464E-A767-9127321D8228}|Default">
+  <MonoDevelop.Ide.ItemProperties.Hello FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hello/Hello.csproj">
+    <Files>
+      <File FileName="Hello/Program.cs" Line="4" Column="1" />
+      <File FileName="Hello/Hello.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hello" expanded="True">
+            <Node name="Hello" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
