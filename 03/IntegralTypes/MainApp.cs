@@ -2,7 +2,7 @@
 
 namespace IntegralTypes
 {
-    class App01
+    class MainApp
     {
         static void Main(string[] args)
         {

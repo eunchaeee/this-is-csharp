@@ -5,7 +5,7 @@ namespace Hello
 {
     class MainApp
     {
-        // program starts here.
+        // 프로그램이 시작되는 곳
         static void Main(string[] args)
         {
             if (args.Length == 0)
@@ -13,8 +13,7 @@ namespace Hello
                 Console.WriteLine("사용법 : Hello.exe <이름>");
                 return;
             }
-
-            WriteLine("Hello, {0}", args[0]);
+            WriteLine("Hello, {0}!", args[0]);
         }
     }
 }
