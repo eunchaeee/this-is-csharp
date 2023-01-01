@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatingPoint", "FloatingPoint.csproj", "{46F52675-5232-4C3C-97C0-1AFB770A3F7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F52675-5232-4C3C-97C0-1AFB770A3F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F52675-5232-4C3C-97C0-1AFB770A3F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F52675-5232-4C3C-97C0-1AFB770A3F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F52675-5232-4C3C-97C0-1AFB770A3F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37DAB23F-B891-4E2A-8B82-30C751C18C2F}
+	EndGlobalSection
+EndGlobal
